@@ -1,0 +1,3 @@
+R2 Score with Training Sales Data:0.9448134303092957
+
+Expected score with real data: 0.94
